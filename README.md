@@ -6,6 +6,7 @@ To draw the schematic and simulate the embedded system for the given requirement
 ## REQUIREMENT
 ![image](https://user-images.githubusercontent.com/6159567/228723969-3892a2a3-3743-4300-9636-ba0dba4ed150.png)
 
+<br><br><br><br>
 ## STEPS
 - We start by designing the circuit in Proteus.
 - 3 switches, 1 push button and a pair of LEDs are used for each.
